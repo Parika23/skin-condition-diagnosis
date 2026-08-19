@@ -2,11 +2,11 @@
 
 A console based C++ project that uses a symptom questionnaire and object-oriented programming to identify a **possible** skin condition and display associated nutritional information and food recommendations.
 
-> **Disclaimer:** This is an educational, rule-based prototype. It does not provide medical diagnosis or treatment and should not replace advice from a qualified healthcare professional.
+> **Disclaimer:** This is an educational, rule based prototype. It does not provide medical diagnosis or treatment and should not replace advice from a qualified healthcare professional.
 
 ## Overview
 
-The program asks the user a series of Yes/No questions about common skin symptoms. Based on the answers, a simple pattern-matching system attempts to identify one of several skin conditions:
+The program asks the user a series of Yes/No questions about common skin symptoms. Based on the answers, a simple pattern matching system attempts to identify one of several skin conditions:
 
 - Acne
 - Dermatitis
