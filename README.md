@@ -1,6 +1,6 @@
 # Skin Condition Screening System
 
-A console-based C++ project that uses a symptom questionnaire and object-oriented programming to identify a **possible** skin condition and display associated nutritional information and food recommendations.
+A console based C++ project that uses a symptom questionnaire and object-oriented programming to identify a **possible** skin condition and display associated nutritional information and food recommendations.
 
 > **Disclaimer:** This is an educational, rule-based prototype. It does not provide medical diagnosis or treatment and should not replace advice from a qualified healthcare professional.
 
