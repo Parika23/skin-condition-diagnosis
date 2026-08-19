@@ -1,8 +1,8 @@
 # Skin Condition Screening System
 
-A C++-based skin condition screening system that uses a symptom questionnaire and Object-Oriented Programming to suggest possible skin conditions and provide general dietary recommendations.
+A C++ based skin condition screening system that uses a symptom questionnaire and Object Oriented Programming to suggest possible skin conditions and provide general dietary recommendations.
 
-> **Disclaimer:** This is an educational, rule-based prototype. It is not a medical diagnostic or treatment tool and should not replace advice from a qualified healthcare professional.
+> **Disclaimer:** This is an educational, rule based prototype. It is not a medical diagnostic or treatment tool and should not replace advice from a qualified healthcare professional.
 
 ## Overview
 
@@ -26,10 +26,10 @@ If no clear condition is identified, the program recommends consulting a dermato
 
 ## Features
 
-- Interactive command-line questionnaire
+- Interactive command line questionnaire
 - Yes/No input validation
 - Rule-based symptom matching
-- Six condition-specific classes
+- Six condition specific classes
 - Object-Oriented Programming concepts
 - Abstraction and inheritance
 - Polymorphism and dynamic binding
@@ -49,7 +49,7 @@ If no clear condition is identified, the program recommends consulting a dermato
 
 ### Polymorphism
 
-The program uses virtual functions so that the appropriate condition-specific implementation is selected at runtime.
+The program uses virtual functions so that the appropriate condition specific implementation is selected at runtime.
 
 ### Encapsulation
 
@@ -57,7 +57,7 @@ Condition-specific nutritional information and food recommendations are containe
 
 ### Dynamic Binding
 
-Virtual functions allow the program to determine the appropriate derived-class behavior at runtime.
+Virtual functions allow the program to determine the appropriate derived class behavior at runtime.
 
 ## Project Structure
 
@@ -126,8 +126,8 @@ The system uses predefined combinations of symptom responses rather than machine
 
 ## Limitations
 
-- The diagnosis logic is simplified and rule-based.
-- The system does not use a clinical dataset or machine-learning model.
+- The diagnosis logic is simplified and rule based.
+- The system does not use a clinical dataset or machine learning model.
 - It does not consider medical history, medications, allergies, or physical examination.
 - The nutritional information is simplified for the purpose of this educational project.
 - The results should not be interpreted as a medical diagnosis.
