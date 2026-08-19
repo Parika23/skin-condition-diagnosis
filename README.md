@@ -26,15 +26,15 @@ If no rule is matched, the program recommends consulting a dermatologist.
 
 ## Features
 
-- Interactive command-line questionnaire
+- Interactive command line questionnaire
 - Yes/No input validation
-- Rule-based symptom matching
-- Six condition-specific classes
-- Abstract base class for common skin-condition behavior
+- Rule based symptom matching
+- Six condition specific classes
+- Abstract base class for common skin condition behavior
 - Runtime polymorphism through virtual functions
 - Encapsulation and inheritance
 - Modern C++ memory management using `std::unique_ptr`
-- Simple, dependency-free implementation
+- Simple, dependency free implementation
 
 ## OOP Concepts Demonstrated
 
@@ -64,7 +64,6 @@ Virtual functions allow the program to resolve the appropriate derived-class beh
 skin-condition-diagnosis/
 ├── main.cpp
 ├── README.md
-├── DESCRIPTION.md
 └── .gitignore
 ```
 
